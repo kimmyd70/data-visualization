@@ -5,7 +5,7 @@
 - viz-b from data.world: [Gloom Index of Radiohead Songs](https://data.world/rcharlie/gloom-index-of-radiohead-songs/workspace/file?filename=gloom_index.csv)
 
 
-Submission pull request: https://github.com/kimmyd70/linear-regression/pull/1
+Submission pull request: https://github.com/kimmyd70/data-visualization/pull/1
 
 ## Description
 ___________
