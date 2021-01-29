@@ -2,7 +2,9 @@
 - Kim Damalas, 27 Jan 2021; seattle-401pyn2
 - viz-a from Kaggle: [The Cure Discography](https://www.kaggle.com/xvivancos/the-cure-discography) 
 
-- viz-b from data.world: [Gloom Index of Radiohead Songs](https://data.world/rcharlie/gloom-index-of-radiohead-songs/workspace/file?filename=gloom_index.csv)
+## Data Visualization of Antarctic Penguins
+- Kim Damalas, 27 Jan 2021; seattle-401pyn2
+- viz-b from seaborn built-in: `seaborn.get_dataset_names('penguins')`
 
 
 Submission pull request: https://github.com/kimmyd70/data-visualization/pull/1
