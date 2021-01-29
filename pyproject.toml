@@ -6,6 +6,11 @@ authors = ["KIMBERLY DAMALAS <kimatcamp@yahoo.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^1.2.1"
+numpy = "^1.19.5"
+matplotlib = "^3.3.3"
+seaborn = "^0.11.1"
+
 
 [tool.poetry.dev-dependencies]
 
